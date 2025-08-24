@@ -18,3 +18,9 @@
 
 **Insights:**
 - Month-to-month customers have dramatically higher churn rates compared to annual contract holders.
+
+## 4. Customer Payment Method Distribution
+![Payment methods](./Images/payment-methods.png)
+
+**Insights:**
+- Electronic check users show higher churn rates compared to other payment methods. Customers using automatic payment methods (bank transfer and credit card) have much better retention.
