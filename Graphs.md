@@ -48,3 +48,33 @@
 
 **Insights:**
 - Non-senior citizens have significantly higher churn rates than senior citizens. Senior customers demonstrate much stronger loyalty and retention.
+
+## 9. Online Security Distribution
+![OnlineSecurity](./Images/online-security.png)
+
+**Insights:**
+- Customers without online security services show higher churn rates than those with the service.
+
+## 10. PaperlessBilling Distribution
+![PaperlessBilling](./Images/paperless-billing.png)
+
+**Insights:**
+- Customers using paperless billing have significantly lower churn rates than those receiving paper bills. Digital engagement through paperless billing appears to correlate with higher customer retention.
+
+## 11. TechSupport Distribution
+![TechSupport](./Images/techsupport.png)
+
+**Insights:**
+- Customers without tech support services have higher churn rates than those with the service. Similar to online security.
+
+## 12. PhoneService Distribution
+![PhoneService](./Images/phoneservice.png)
+
+**Insights:**
+- Most customers have phone service, and those with phone service show lower churn rates than the small segment without it.
+
+## 13. Monthly Charges Distribution
+![MonthlyCharges](./Images/monthly-charges.png)
+
+**Insights:**
+- Retained customers cluster around lower monthly charges (~$20-30), while churned customers are heavily concentrated in higher charge ranges ($70-110). This clearly indicates that pricing is a major churn driver, with customers paying higher monthly fees being significantly more likely to leave.
