@@ -42,3 +42,9 @@
 
 **Insights:**
 - Customers without partners show higher churn rates than those with partners. Similar to the dependents pattern, having a partner appears to increase customer retention.
+
+## 8. SeniorCitizen Distribution
+![SeniorCitizen](./Images/seniorcitizen.png)
+
+**Insights:**
+- Non-senior citizens have significantly higher churn rates than senior citizens. Senior customers demonstrate much stronger loyalty and retention.
