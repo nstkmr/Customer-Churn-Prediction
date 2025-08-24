@@ -11,4 +11,10 @@
 ![Churn Distribution w.r.t Gender](./Images/churn-distribution.png)
 
 **Insights:**
--Churn rate is identical across genders (26.6% for both male and female customers), indicating gender is not a predictive factor for churn.
+- Churn rate is identical across genders (26.6% for both male and female customers), indicating gender is not a predictive factor for churn.
+
+## 3. Customer Contract Distribution
+![Customer contract](./Images/customer-contract.png)
+
+**Insights:**
+- Month-to-month customers have dramatically higher churn rates compared to annual contract holders.
