@@ -24,3 +24,15 @@
 
 **Insights:**
 - Electronic check users show higher churn rates compared to other payment methods. Customers using automatic payment methods (bank transfer and credit card) have much better retention.
+
+## 5. Internat Service and Gender Distribution
+![Internet service](./Images/internet-service.png)
+
+**Insights:**
+- Fiber optic customers show the highest churn rates across both genders, while customers without internet service have the lowest churn. DSL customers fall in between.
+
+## 6. Dependents Distribution
+![Dependents](./Images/dependents.png)
+
+**Insights:**
+- Customers without dependents have significantly higher churn rates than those with dependents. Having family dependents appears to create stronger customer loyalty.
