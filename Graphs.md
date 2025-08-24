@@ -36,3 +36,9 @@
 
 **Insights:**
 - Customers without dependents have significantly higher churn rates than those with dependents. Having family dependents appears to create stronger customer loyalty.
+
+## 7. Partner Distribution
+![Partner](./Images/partner.png)
+
+**Insights:**
+- Customers without partners show higher churn rates than those with partners. Similar to the dependents pattern, having a partner appears to increase customer retention.
