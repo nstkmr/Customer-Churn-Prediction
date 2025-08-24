@@ -78,3 +78,21 @@
 
 **Insights:**
 - Retained customers cluster around lower monthly charges (~$20-30), while churned customers are heavily concentrated in higher charge ranges ($70-110). This clearly indicates that pricing is a major churn driver, with customers paying higher monthly fees being significantly more likely to leave.
+
+## 14. Total Charges Distribution
+![TotalCharges](./Images/total-charges.png)
+
+**Insights:**
+- Churned customers show a sharp peak at very low total charges (indicating early churn), while retained customers have a broader distribution extending to higher total charges.
+
+## 15. Tenure vs Churn
+![Tenure](./Images/tenure-vs-churn.png)
+
+**Insights:**
+- Retained customers have significantly longer tenure (median ~38 months) compared to churned customers (median ~10 months). This shows that churn risk is highest in the early months of service.
+
+## 16. Correlation Matrix (Heatmap)
+![Heatmap](./Images/heatmap.png)
+
+**Insights:**
+- The correlation matrix reveals that add-on services are highly intercorrelated (0.6-0.8), suggesting customers tend to bundle services together. Monthly charges, contract length, and tenure all show negative correlations with churn, indicating that higher-paying, longer-committed customers are less likely to leave.
